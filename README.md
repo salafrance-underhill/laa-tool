@@ -10,9 +10,8 @@ Philipp Stiefel (phil@codekabinett.com) of [codekabinett.com](https://www.codeka
 
 Run it without the set/unset flags to inpect the LAA status.
 
-`
-python laa-tool.py <path to executable
-`
+`python laa-tool.py <path to executable`
+
 To obtain a safe version of Python, consider installing Chocolatey
 and installing the official Python package listed thereon.
 
